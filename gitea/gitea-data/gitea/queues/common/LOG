@@ -1,0 +1,16 @@
+=============== Oct 14, 2026 (CEST) ===============
+10:06:50.166973 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:06:50.175765 db@open opening
+10:06:50.176253 version@stat F·[] S·0B[] Sc·[]
+10:06:50.177219 db@janitor F·2 G·0
+10:06:50.177261 db@open done T·1.469111ms
+=============== Nov 24, 2026 (CET) ===============
+08:45:21.372847 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:45:21.377790 version@stat F·[] S·0B[] Sc·[]
+08:45:21.377804 db@open opening
+08:45:21.377849 journal@recovery F·1
+08:45:21.377914 journal@recovery recovering @1
+08:45:21.379949 memdb@flush created L0@2 N·108 S·1KiB "act..igh,v28":"web..low,v19"
+08:45:21.381369 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+08:45:21.383596 db@janitor F·3 G·0
+08:45:21.383619 db@open done T·5.80833ms
